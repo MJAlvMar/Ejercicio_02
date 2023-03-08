@@ -1,9 +1,9 @@
 {
-  "name": "EjercicioGit_01",
+  "name": "EjercicioGit_02",
   "description": "Proceso en el que se lee excel y se crean archivos presupuestos en carpetas",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Cognitive.Activities": "[2.2.4]",
+    "System.Text.RegularExpressions": "4.3.1",
     "UiPath.Excel.Activities": "[2.16.2]",
     "UiPath.Mail.Activities": "[1.18.2]",
     "UiPath.PDF.Activities": "[3.11.0]",
@@ -63,5 +63,5 @@
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Legacy"
+  "targetFramework": "Windows"
 }
